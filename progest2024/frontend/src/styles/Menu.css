@@ -1,0 +1,8 @@
+.eqg-menu{
+    color: white;
+	background-color: #ddb9c1;
+	display: flex;
+    flex: 1;
+    height: 800px;
+    border-right: 2px solid black;
+}
