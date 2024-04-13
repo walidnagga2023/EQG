@@ -1,6 +1,6 @@
 import '../styles/Footer.css'
 
-function Footer(){
+export default function Footer(){
     return(
         <footer>
             <div className="eqg-copyright">
@@ -9,4 +9,3 @@ function Footer(){
         </footer>
     )
 }
-export default Footer
