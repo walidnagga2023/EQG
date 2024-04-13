@@ -3,7 +3,7 @@ import Conteneur from './Conteneur'
 import Menu from './Menu'
 import '../styles/Main.css'
 
-function Main(){
+export default function Main(){
     return(
         <div className="eqg-main">
             <Menu/>
@@ -12,4 +12,3 @@ function Main(){
         
     )
 }
-export default Main

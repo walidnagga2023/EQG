@@ -4,7 +4,7 @@ import Footer from "./Footer"
 import Main from "./Main"
 
 
-function App() {
+export default function App() {
   const title = "Gestion de Stock"
   return (
     <div>
@@ -18,4 +18,3 @@ function App() {
   );
 }
 
-export default App;

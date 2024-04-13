@@ -1,6 +1,6 @@
 import '../styles/EquipmentList.css'
 
-function EquipmentList(){
+export default function EquipmentList(){
     return(
         <div className="eqg-equipmentList">
             <button className="eqg-button">Tube</button>
@@ -14,4 +14,3 @@ function EquipmentList(){
         
     )
 }
-export default EquipmentList

@@ -1,11 +1,10 @@
-import ConteneurList from './ConteneurList'
+import TubeList from './TubeList'
 import '../styles/Conteneur.css'
 
-function Conteneur(){
+export default function Conteneur(){
     return(
         <div className="eqg-conteneur">
-            <ConteneurList/>
+            <TubeList/>
         </div>
     )
 }
-export default Conteneur

@@ -1,6 +1,6 @@
 export const tubeList = [
 	{
-        id: '1ed',
+        id: '1',
 		diametre: '8',
 		nuance: 'X42',
 		epaisseur: 4,
@@ -11,7 +11,7 @@ export const tubeList = [
         annee:2017
 	},
 	{   
-        id: '2ab',
+        id: '2',
 		diametre: '6',
 		nuance: 'X52',
 		epaisseur: 3,
@@ -23,7 +23,7 @@ export const tubeList = [
 	},
 
 	{
-        id: '3sd',
+        id: '3',
 		diametre: '4',
 		nuance: 'X60',
 		epaisseur: 3,
@@ -34,7 +34,7 @@ export const tubeList = [
         annee:2014
 	},
 	{
-        id: '4kk',
+        id: '4',
 		diametre: '8',
 		nuance: 'classique',
 		epaisseur: 3,
@@ -45,41 +45,7 @@ export const tubeList = [
         annee:2014
 	},
 	{
-        id: '5pl',
-		diametre: '8',
-		nuance: 'classique',
-		epaisseur: 3,
-		hp: false,
-		nombre: 16000,
-        longueur:253105,
-        site:'bouchamma',
-        annee:2014
-	},
-
-	{
-        id: '8fp',
-		diametre: '8',
-		nuance: 'classique',
-		epaisseur: 3,
-		hp: false,
-		nombre: 16000,
-        longueur:253105,
-        site:'bouchamma',
-        annee:2014
-	},
-	{
-        id: '7ie',
-		diametre: '8',
-		nuance: 'classique',
-		epaisseur: 3,
-		hp: false,
-		nombre: 16000,
-        longueur:253105,
-        site:'bouchamma',
-        annee:2014
-	},
-	{
-        id: '9vn',
+        id: '5',
 		diametre: '8',
 		nuance: 'classique',
 		epaisseur: 3,
@@ -91,7 +57,41 @@ export const tubeList = [
 	},
 
 	{
-        id: '6uo',
+        id: '8',
+		diametre: '8',
+		nuance: 'classique',
+		epaisseur: 3,
+		hp: false,
+		nombre: 16000,
+        longueur:253105,
+        site:'bouchamma',
+        annee:2014
+	},
+	{
+        id: '7',
+		diametre: '8',
+		nuance: 'classique',
+		epaisseur: 3,
+		hp: false,
+		nombre: 16000,
+        longueur:253105,
+        site:'bouchamma',
+        annee:2014
+	},
+	{
+        id: '9',
+		diametre: '8',
+		nuance: 'classique',
+		epaisseur: 3,
+		hp: false,
+		nombre: 16000,
+        longueur:253105,
+        site:'bouchamma',
+        annee:2014
+	},
+
+	{
+        id: '6',
 		diametre: '8',
 		nuance: 'classique',
 		epaisseur: 3,
